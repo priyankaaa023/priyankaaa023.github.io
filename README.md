@@ -8,7 +8,7 @@
 - Also section ahows our extras
 - services section gives us the services
 - Javascript is used for animation
-# [project 2: Pet shop website](http://localhost:8080)
+# [project 2: Pet shop website](http://127.0.0.1:5502/index.html)
 Created a pet shop website using :
 -HTML
 -CSS
