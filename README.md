@@ -1,5 +1,5 @@
 # priyankaaa023.github.io
-# [project 1: Noodle shop home page](http://localhost:5174/)
+# [project 1: Noodle shop webpage](http://localhost:5174/)
 -This is a landing webpage for a noodle shop .
 -created this home page by using HTML and CSS.
 - it has About , Menu , Also and services section.
